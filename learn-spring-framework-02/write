@@ -1,0 +1,4 @@
+In Eager Initialization beans are initialized on startup of application and they are
+default(we do not need to provide @Lazy annotation for this) and this uses more memory
+than Lazy Initialization where we need to Provide @Lazy (or @Lazy(value=true)) annotation.
+Lazy Initialization are very rare to use.

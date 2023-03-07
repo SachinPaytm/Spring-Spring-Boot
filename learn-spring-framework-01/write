@@ -1,0 +1,8 @@
+We can assign Spring bean a specified name and whether it is primary or not if there are 2 or more same type of bean.
+for example:
+@Bean(name = "name")
+@Primary
+public String name1() {return "sach";}
+
+@Bean
+public String name2(){ return "sachin";}
