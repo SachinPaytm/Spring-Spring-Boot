@@ -1,0 +1,5 @@
+in JDBC we need to write sql queries in String format and then we execute those queries
+whereas in JPA we have entityManager which provides these queries like for inersetion by merge,
+for finding by find and for deletion by find & remove
+while in Spring data JPA code becomes more easy like we have save() for updatation queries,
+deleteById for deletion, and findByName,findBy.. methods.
