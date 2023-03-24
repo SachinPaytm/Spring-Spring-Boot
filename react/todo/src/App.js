@@ -2,14 +2,12 @@ import './App.css';
 import {Component} from 'react';
 import Component1 from './components/Component1'
 import Component3 from './components/Component3'
+import Counter from './components/counter/Counter'
 
 function App() {
   return (
     <div className="App">
-      <Component1/>
-      <Component2/>
-      <Component3/>
-      <Component4/>
+        <Counter/>
     </div>
   );
 }
