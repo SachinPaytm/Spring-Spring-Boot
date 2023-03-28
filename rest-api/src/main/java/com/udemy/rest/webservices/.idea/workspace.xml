@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a0ad7c7-d556-44ea-8ef3-91ab1cc477d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../react-frontend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../react-frontend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../react/todo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restfulwebservices/todo/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restfulwebservices/todo/TodoResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/app-test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/app-test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/.idea/libraries/KotlinJavaScript.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/.idea/todo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/app/AuthContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/app/ErrorComponent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/app/Footer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/app/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/app/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/app/Logout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/app/TodoApp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/app/TodoApp.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/app/TodoComponent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/app/WelcomeComponent.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/counter/Button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/counter/Counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/counter/Counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/learn/Component1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/components/learn/Component3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../react/todo/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/exception/CustomizedResponseEntityExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/exception/ErrorDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/filtering/FilterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/filtering/SomeBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/jpa/UserRespository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/security/SpringSecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/user/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/user/PostRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/user/UserDaoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/user/UserJpaResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/user/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/user/UserResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/versions/Name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/versions/PersonV1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/versions/PersonV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/java/com/udemy/rest/webservices/restfulwebservices/versions/VersioningPersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/resources/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/resources/messages_de.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/resources/messages_fr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/main/resources/messages_nl.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../restful-web-services/src/test/java/com/udemy/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="ProjectId" id="2NeHTd8C4RJwOSU4GqnNGpfORxR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/sachinsharma/IdeaProjects/SpringBoot-SpringFramework/rest-api/src/main/java/com/udemy/rest/webservices"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a0ad7c7-d556-44ea-8ef3-91ab1cc477d4" name="Changes" comment="" />
+      <created>1680017636571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680017636571</updated>
+    </task>
+    <servers />
+  </component>
+</project>
