@@ -22,9 +22,8 @@ public class MockitoListBasic {
     @Test
     void parametersTest(){
         List listMock = mock(List.class);
-        when(listMock.get(Mockito.any())).thenReturn("Mockito");
+        when(listMock.get(Mockito.anyInt())).thenReturn("Mockito");
         assertEquals("Mockito", listMock.get(1));
-        assertEquals("Mockito.." +
-                "", listMock.get(0));
+        assertEquals("Mockito", listMock.get(0));
     }
 }
